@@ -1,0 +1,16 @@
+date,description,category,type,amount,account,vendor,note
+2026-09-08,Tech Global Inc - Monthly Salary,Salary,income,6500.00,Main Checking,Tech Global,Direct deposit salary payout
+2026-09-07,Whole Foods Organic Market,Food & Dining,expense,142.85,Rewards Credit Card,Whole Foods,Weekly groceries
+2026-09-06,Apex Luxury Apartment Rent,Housing,expense,1450.00,Main Checking,Apex Properties,September rent auto-debit
+2026-09-05,Freelance UX Design Client,Freelance,income,1250.00,Main Checking,Stripe Payout,Website redesign project milestone
+2026-09-04,Chevron Station Gas & Fuel,Transportation,expense,58.40,Rewards Credit Card,Chevron,Full tank refill
+2026-09-03,ChatGPT Plus & OpenAI API,Tech & Utilities,expense,20.00,Rewards Credit Card,OpenAI,AI tools monthly subscription
+2026-09-02,Vanguard S&P 500 Index Fund,Investments,expense,800.00,High-Yield Savings,Vanguard,Automated monthly investment
+2026-09-01,Equinox Fitness Club,Health & Wellness,expense,185.00,Rewards Credit Card,Equinox,Gym membership fee
+2026-08-30,Starbucks Coffee & Snacks,Food & Dining,expense,18.75,Rewards Credit Card,Starbucks,Morning meeting coffee
+2026-08-28,Amazon Electronics & Accessories,Shopping & Style,expense,245.99,Rewards Credit Card,Amazon,Ergonomic mouse & USB-C hub
+2026-08-26,City Power & Electric Utility,Tech & Utilities,expense,112.30,Main Checking,City Electric,Electric utility bill
+2026-08-25,Apple Services (iCloud + Music),Tech & Utilities,expense,14.99,Rewards Credit Card,Apple,Cloud storage and music
+2026-08-24,Stock Dividend Payout (AAPL),Investments,income,320.50,Investment Portfolio,Apple Inc,Q3 Quarterly dividend
+2026-08-22,Sushi Omakase Dinner,Food & Dining,expense,195.00,Rewards Credit Card,Nobu Dining,Weekend celebration dinner
+2026-08-20,Geico Auto Insurance,Transportation,expense,135.00,Main Checking,Geico,Monthly car insurance
